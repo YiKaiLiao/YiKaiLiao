@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yi-Kai Liao, a passionate computer science enthusiast currently pursuing a Master's degree in Computer Science at the University of Southern California (USC). My journey in technology has been fueled by a diverse range of experiences, from academic projects to internships and startup co-founding.<br><br>- 🔭 I’m currently working on [spaceFlowUS](https://www.spaceflow.in/)<br><br>- 💬 Ask me about **C++, React, and Node.js**<br><br>- 📫 How to reach me **kevinliao75@gmail.com**
+I'm Yi-Kai Liao, a passionate full stack engineer enthusiast and a coffee enthusiast. My journey in technology has been fueled by a diverse range of experiences, from academic projects to internships and startup co-founding.<br><br>- 🔭 I’m currently working on [spaceFlowUS](https://www.spaceflow.in/)<br><br>- 💬 Ask me about **C++, React, and Node.js**<br><br>- 📫 How to reach me **kevinliao75@gmail.com**
 
 
 # 🌐 Socials:
